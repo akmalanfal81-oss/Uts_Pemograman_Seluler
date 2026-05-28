@@ -22,4 +22,5 @@ Aplikasi ini dibangun untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pem
 
 ### 2. Halaman Panel Generator
 | Form Nama Dosen | Input Nilai & Hasil Generate |
+| :---: | :---: |
 | ![Form Dosen]<img width="1080" height="2400" alt="halaman_nama_dosen" src="https://github.com/user-attachments/assets/ee87cf10-b462-4093-8454-0b2a722cb3b8" /> | ![Hasil Penilaian]<img width="720" height="1600" alt="halaman_nilai_mahasiswa" src="https://github.com/user-attachments/assets/5f90c1ac-5344-4608-9609-b333aba06810" /> |
